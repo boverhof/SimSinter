@@ -17,13 +17,15 @@ versions at your own risk.
 + NuGet Package Manager
 + Wix Toolset v3.10
 
+https://marketplace.visualstudio.com/items?itemName=WixToolset.WixToolsetVisualStudio2012Extension
+
 ### Build and Test
 After installing the tools above run the Git Bash program.
 Executing the commands below with compile the source and 
 run the tests.
 
-
 ```
+
 git clone https://github.com/CCSI-Toolset/SimSinter.git
 cd SimSinter
 start make.bat
